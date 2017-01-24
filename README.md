@@ -2,7 +2,7 @@
 
 ### Rapports soumis à l'Assemblée Générale
 
-| https://brab80webscom.github.io/Comptes/Decisions_AG.html |
+| https://brab80webscom.github.io/Comptes |
 | :---: |
 | Le contrôle de vos finances |
 
