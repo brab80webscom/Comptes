@@ -2,6 +2,10 @@
 
 ### Rapports soumis à l'Assemblée Générale
 
+| https://brab80webscom.github.io/Comptes/Decisions_AG.html |
+| :---: |
+| Le contrôle de vos finances |
+
 Les rapports consistent pour le Commissaire aux comptes à vérifier :
 
 1.  si le syndic a géré l'immeuble soigneusement et de manière transparente ;
