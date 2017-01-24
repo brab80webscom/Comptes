@@ -1,7 +1,3 @@
-# Comptes
-
-> Rapports soumis à l'Assemblée Générale
-
 ## Obligations légales
 
 * [Que doit vérifier](README.md) le Commissaire aux comptes ?
