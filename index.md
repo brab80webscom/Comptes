@@ -6,6 +6,8 @@
 
 ## Les bilans présentés par le Syndic
 
+![](Pie.png) ![](chart.png) ![](Histogram.png)
+
 | pour les dates en caractères gras : |
 | --- |
 | le Syndic a obtenu décharge de sa gestion de la part de l'Assemblée Générale |
