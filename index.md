@@ -2,10 +2,12 @@
 
 * [**Que doit vérifier**](Verifs.md) le Commissaire aux comptes ?
 * Quel est le [plan comptable](http://brab80.webs.com/AR_20120712.pdf) applicable aux copropriétés ?
+* Les [**engagements complémentaires**](Charte_Loi_2016.md) pris par le Commissaire aux comptes
 
 ## Les bilans présentés par le Syndic
 
-> **en gras** : le Syndic a obtenu décharge de sa gestion
+<u><b>en gras :</b></u>  
+`le Syndic a obtenu décharge de sa gestion de la part de l'Assemblée Générale`
 
 * au [**31.12.2010**](http://brab80.webs.com/Bilan_20101231.html)
 * au [31.12.2011](http://brab80.webs.com/Bilan_20111231.html)
