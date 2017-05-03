@@ -1,4 +1,4 @@
-## Obligations légales
+## Obligations légales et déontologiques
 
 * [**Que doit vérifier**](Verifs.md) le Commissaire aux comptes ?
 * Quel est le [plan comptable](http://brab80.webs.com/AR_20120712.pdf) applicable aux copropriétés ?
@@ -6,8 +6,9 @@
 
 ## Les bilans présentés par le Syndic
 
-<u><b>en gras :</b></u>  
-`le Syndic a obtenu décharge de sa gestion de la part de l'Assemblée Générale`
+| pour les dates en caractères gras : |
+| --- |
+| le Syndic a obtenu décharge de sa gestion de la part de l'Assemblée Générale |
 
 * au [**31.12.2010**](http://brab80.webs.com/Bilan_20101231.html)
 * au [31.12.2011](http://brab80.webs.com/Bilan_20111231.html)

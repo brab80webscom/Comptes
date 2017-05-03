@@ -1,6 +1,4 @@
-<link href="style2009a.css" rel="stylesheet"></link>
-
-# Charte
+## Charte des engagements du Commissaire aux comptes 2017
 
 * [**lettre de candidature**](https://drive.google.com/file/d/0B_p7giU0NqM8N051YlhpZGhBRjQ/view?usp=sharing) de M. Dumoulin du 02.02.2017
 
