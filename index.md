@@ -19,6 +19,8 @@
 | [**Rubrique 09 à 14**](Rubr_09.md) | charges spécifiques aux appartements | <progress value="22.88" max="100">22,88 %</progress> |
 | [**Rubrique 15 et 16**](Rubr_15.md) | charges spécifiques aux garages | &lt; 1,5 % |
 
+> Que donnent ces proportions [**pour chaque copropriétaire**](2016_BRA_Recap_Proprio.pdf) individuel (en &euro;) ?
+
 ## Les bilans présentés par le Syndic
 
 ![](Pie.png) ![](Chart.png) ![](Histogram.png)
