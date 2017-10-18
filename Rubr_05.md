@@ -9,4 +9,4 @@
 | Rémunération concierge | 18.712,08 | 4,14% |
 | ONSS, Assur., électr., téléph. (concierge) | 25.405,67 | 5,79% |
 
-**Total Rubrique 04 :** 14,03% <progress value="14.03" max="100">14,03 %</progress>
+**Total Rubrique 05 :** 14,03% <progress value="14.03" max="100">14,03 %</progress>

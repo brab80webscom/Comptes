@@ -22,6 +22,7 @@
 | Entretien, eau, électr. Hall (80A) | 28.391,79 | 6,47% |
 | Entretien, eau, électr. Hall (80B) | 25.414,11 | 5,79% |
 
+**Total Rubriques 09-14 :** 22,88% <progress value="22.88" max="100">22,88 %</progress>
 
 **&Aacute; noter :**  
 

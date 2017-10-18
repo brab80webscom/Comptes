@@ -4,3 +4,4 @@
 | --- | ---: | ---:  |
 | Travaux conservatoires chaufferie | 6.269,90 | 1,43% |
 
+**Total Rubrique 07 :** 1,43% <progress value="1.43" max="100">1,43 %</progress>

@@ -7,3 +7,5 @@
 | --- | ---: | ---:  |
 | Contrat portes & électricité | 5.368,94 | 1,22% |
 | Travaux & réparations portes | 349,80 | 0,08% |
+
+**Total Rubriques 09-14 :** 1,30% <progress value="1.3" max="100">1,30 %</progress>

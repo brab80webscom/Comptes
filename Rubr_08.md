@@ -7,3 +7,4 @@
 | Livraison mazout | 89.279,55 | 20,34% |
 | Location compteurs | 11.426,53 | 2,60% |
 
+**Total Rubrique 08 :** 28,76% <progress value="28.76" max="100">28,76 %</progress>
