@@ -23,3 +23,7 @@
 * au [**31.12.2015**](http://brab80.webs.com/Bilan_20151231.html)
 * au **31.12.2016**
 
+## Structure des dépenses (en 2016)
+
+* [**Rubrique 01**](Rubr_01.md) : frais fixes de gestion de l'immeuble
+* [**Rubrique 02**](Rubr_02.md) : frais fixes de gestion de l'immeuble
