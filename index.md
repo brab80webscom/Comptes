@@ -25,5 +25,16 @@
 
 ## Structure des dépenses (en 2016)
 
-* [**Rubrique 01**](Rubr_01.md) : frais fixes de gestion de l'immeuble
-* [**Rubrique 02**](Rubr_02.md) : frais fixes de gestion de l'immeuble
+| en 2016 | &nbsp; | Proportion |
+| --- | --- | --- |
+| [**Rubrique 01**](Rubr_01.md) | rémunération du syndic | <progress value="7.93" max="100">7,93 %</progress> |
+| [**Rubrique 02**](Rubr_02.md) | frais fixes de gestion de l'immeuble | <progress value="4.08" max="100">4,08 %</progress> |
+
+* [**Rubrique 03**](Rubr_03.md) : rémunération du syndic
+* [**Rubrique 04**](Rubr_04.md) : rémunération du syndic
+* [**Rubrique 05**](Rubr_05.md) : rémunération du syndic
+* [**Rubrique 06**](Rubr_06.md) : rémunération du syndic
+* [**Rubrique 07**](Rubr_07.md) : rémunération du syndic
+* [**Rubrique 08**](Rubr_08.md) : rémunération du syndic
+* [**Rubrique 09 à 14**](Rubr_09.md) : charges spécifiques aux appartements
+* [**Rubrique 15 et 16**](Rubr_15.md) : charges spécifiques aux garages
