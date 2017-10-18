@@ -25,14 +25,14 @@
 
 ## Structure des dépenses (en 2016)
 
-| en 2016 | &nbsp; | Proportion |
+| &nbsp;| &nbsp; | Proportion |
 | --- | --- | --- |
 | [**Rubrique 01**](Rubr_01.md) | rémunération du syndic | <progress value="7.93" max="100">7,93 %</progress> |
 | [**Rubrique 02**](Rubr_02.md) | frais fixes de gestion de l'immeuble | <progress value="4.08" max="100">4,08 %</progress> |
+| [**Rubrique 03**](Rubr_03.md) | frais privatifs (exposés par le syndic) | &lt;1% |
+| [**Rubrique 04**](Rubr_04.md) | assurances | <progress value="5.14" max="100">5,14 %</progress> |
+| [**Rubrique 05**](Rubr_05.md) | conciergerie, entretien des abords | <progress value="14.03" max="100">14,03 %</progress> |
 
-* [**Rubrique 03**](Rubr_03.md) : rémunération du syndic
-* [**Rubrique 04**](Rubr_04.md) : rémunération du syndic
-* [**Rubrique 05**](Rubr_05.md) : rémunération du syndic
 * [**Rubrique 06**](Rubr_06.md) : rémunération du syndic
 * [**Rubrique 07**](Rubr_07.md) : rémunération du syndic
 * [**Rubrique 08**](Rubr_08.md) : rémunération du syndic
