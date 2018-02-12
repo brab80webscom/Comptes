@@ -6,8 +6,9 @@
     * correcte [**estimation du budget**](exercice_budget.md)
     * alimentation suffisante du [**fonds de roulement**](appel_charges_courantes.md)
 * &Eacute;pargner :
-    * anticipation des travaux futurs
-    * valeur des appels du fonds de réserve
+    * [**anticipation des travaux**](autofinancement.md) futurs : auto-financement
+    * valeur des [**appels du fonds de réserve**](fonds_reserve.md)
+* Non assujettissement aux marchés publics
 * Emprunter
 * Subsidiation
 
