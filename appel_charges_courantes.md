@@ -7,11 +7,21 @@ Le Syndic est mandaté par l'Assemblée Générale pour faire face aux dépenses
 Tout au long de l'année, le Syndic commande des services à diverses entreprises :
 
 * soit que celles-ci soient liées par un contrat pour des interventions régulières ;
-* soit que celles-ci aient été approchées pour remettre un devis pour assurer une prestation ponctuelle, telle qu'une réparation ou un remplacement de matériel
+* soit que celles-ci aient été approchées pour remettre un devis pour assurer une prestation ponctuelle, telle qu'une réparation ou un remplacement de matériel.
+
+Il s'agit donc pour lui, comme pour toute autre entreprise, de constituer une <u>provision pour</u> faire face aux risques et aux <u>charges</u> futurs.
 
 > En cas d'intervention en urgence, le <u>devis</u> est communiqué téléphoniquement, mais, <u>pour être validé par le Commissaire aux comptes</u>, il doit avoir été confirmé par la suite par une mention sur le bon de commande, le bon de livraison et/ou sur la facture.
 
 ## Quand un fonds de roulement est-il suffisant ?
+
+Le fonds de roulement est donc la trésorie de la copropriété.
+
+Comme dans toute entreprise, la trésorerie d'une copropriété doit tenir compte de certains aléas, tels que les retards de facturation des fournisseurs, les retards de versement (arriérés) des charges, la concentration de certains types de dépenses à certaines périodes de l'année (primes d'assurances, combustibles en cas de vague de froid), etc. 
+
+Dans sa confection du budget, le Syndic doit dès lors majorer les dépenses réelles de l'exercice précédent d'un coéfficient de nature à lui procurer une marge de sécurité (= <u>provision pour risques</u> et charges)
+
+
 
 ## Comment le budget est-il réparti s'il s'avère supérieur aux dépenses réelles du Syndic ?
 
