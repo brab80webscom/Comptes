@@ -1,8 +1,12 @@
 ## Sources de financement des copropriétés
 
-* Faire face aux charges courantes (alimentation du fonds de roulement)
-* &Eacute;pargne et provision pour travaux futurs (appels du fonds de réserve)
-* Emprunt
+* Faire face aux charges courantes :
+    * correcte [estimation du budget](exercice_budget.md)
+    * alimentation suffisante du fonds de roulement
+* &Eacute;pargner :
+    * anticipation des travaux futurs
+    * valeur des appels du fonds de réserve
+* Emprunter
 * Subsidiation
 
 ## Obligations légales et déontologiques
