@@ -1,3 +1,10 @@
+## Sources de financement des copropriétés
+
+* Faire face aux charges courantes (alimentation du fonds de roulement)
+* &Eacute;pargne et provision pour travaux futurs (appels du fonds de réserve)
+* Emprunt
+* Subsidiation
+
 ## Obligations légales et déontologiques
 
 * [**Que doit vérifier**](Verifs.md) le Commissaire aux comptes ?
