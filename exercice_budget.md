@@ -1,4 +1,11 @@
-## L'exercice du budget
+## Pourquoi un budget ?
+
+![](budget.png)
+
+Le budget est une obligation nouvelle introduite par la Loi du 02.06.2010, et d'application depuis l'exercice comptable 2011.
+
+> L'objectif poursuivi par le législateur, en imposant l'établissement de budgets, consiste à maîtriser les charges, d'une part, et de permettre aux copropriétaires d'anticiper les montants qu'ils seront amenés à payer, d'autre part.  
+> (<u>Source :</u> Proposition de loi visant à moderniser et assurer une meilleure transparence dans le fonctionnement des copropriétés, Doc. parl., Ch., n° 1334/004, 2008-2009, p. 23) 
 
 ### Responsabilité du Syndic
 

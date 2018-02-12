@@ -1,8 +1,10 @@
 ## Sources de financement des copropriétés
 
+![](budget_small.png)
+
 * Faire face aux charges courantes :
     * correcte [**estimation du budget**](exercice_budget.md)
-    * alimentation suffisante du fonds de roulement
+    * alimentation suffisante du [**fonds de roulement**](appel_charges_courantes.md)
 * &Eacute;pargner :
     * anticipation des travaux futurs
     * valeur des appels du fonds de réserve
@@ -36,11 +38,9 @@
 
 ![](Pie.png) ![](Chart.png) ![](Histogram.png)
 
-| **pour les dates en caractères gras :** |
-| --- |
-| le Syndic a obtenu décharge de sa gestion de la part de l'Assemblée Générale |
+    pour les dates en caractères gras :
+    le Syndic a obtenu décharge de sa gestion de la part de l'Assemblée Générale
 
-&nbsp;
 
 * au [**31.12.2010**](http://brab80.webs.com/Bilan_20101231.html)
 * au [31.12.2011](http://brab80.webs.com/Bilan_20111231.html)
