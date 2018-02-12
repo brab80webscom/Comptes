@@ -27,8 +27,8 @@ Dans sa confection du budget, le Syndic doit dès lors majorer les dépenses ré
 
 Les dépenses prévues au budget prévisionnel sont obligatoirement payées à l'aide des appels de charges provisionnelles réclamées auprès des copropriétaires, correspondant  chaque trimestre au ¼ du budget prévisionnel annuel.
 
-Les copropriétaires disposent  de 60 jours pour répondre aux appels de charges provisionnelles.  
-(Recommandation des Commissaires aux Comptes adoptée par l'AG du 07.03.2017)
+> Les copropriétaires disposent  de 60 jours pour répondre aux appels de charges provisionnelles.  
+> (Recommandation des Commissaires aux Comptes adoptée par l'AG du 07.03.2017)
 
 Le budget prévisionnel  couvre les 12 mois de l'année civile. 
 
