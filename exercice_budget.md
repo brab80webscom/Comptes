@@ -16,8 +16,8 @@ Se prononcer sur les propositions du Syndic, afin de conseiller l'Assemblée Gé
 | :---: |
 | [**Rapport à l'AG 2013**](budget_2013.md) |
 | [**Rapport à l'AG 2014**](budget_2014.md) |
-| Rapport à l'AG 2015 |
-| Rapport à l'AG 2016 |
+| [**Rapport à l'AG 2015**](https://sites.google.com/site/brab80refs/home/4-analyse-bilantaire/budget-2015) |
+| [**Rapport à l'AG 2016**](http://brab80.webs.com/Brochure_Recommandations.pdf)<br>[**Réponse : 19.02.2016**](https://padlet.com/brab80webscom/comptes_expliques/wish/96050801)<br>[**Réponse : 20.02.2016**](https://padlet.com/brab80webscom/comptes_expliques/wish/96216570) |
 | Rapport à l'AG 2017 |
 
 ## Objectifs des budgets
