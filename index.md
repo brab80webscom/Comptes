@@ -1,7 +1,7 @@
 ## Sources de financement des copropriétés
 
 * Faire face aux charges courantes :
-    * correcte [estimation du budget](exercice_budget.md)
+    * correcte [**estimation du budget**](exercice_budget.md)
     * alimentation suffisante du fonds de roulement
 * &Eacute;pargner :
     * anticipation des travaux futurs

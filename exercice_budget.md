@@ -12,13 +12,13 @@ En vertu de sa mission légale #18 (art. 577-8 §4 18° du Code Civil), le Syndi
 
 Se prononcer sur les propositions du Syndic, afin de conseiller l'Assemblée Générale avant que celle-ci ne se procède aux votes.
 
-| Extraits des Rapports<br>du Commissaire aux comptes |
-| --- |
-| Rapport 2013 |
-| Rapport 2014 |
-| Rapport 2015 |
-| Rapport 2016 |
-| Rapport 2017 |
+| Extraits des Rapports du Commissaire aux comptes |
+| :---: |
+| [**Rapport à l'AG 2013**](budget_2013.md) |
+| Rapport à l'AG 2014 |
+| Rapport à l'AG 2015 |
+| Rapport à l'AG 2016 |
+| Rapport à l'AG 2017 |
 
 ## Objectifs des budgets
 
