@@ -6,6 +6,9 @@
 
 ### Page 2
 
+    Le pourquoi du rapport : 
+    des décisions à prendre d'urgence par l'AG
+
 <u>QUANT AU FOND :</u> deux menaces sont apparues ; la rédaction du Rapport intérimaire
 m'a déjà permis d'alerter l'Assemblée générale ; revoici ces deux menaces, pour mémoire :
 
