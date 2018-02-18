@@ -18,6 +18,7 @@ text-align: center;
 border-color: ;
 border-style: inset;
 margin-top: 10px;
+padding: 3%;
 }
 
 h3 {
@@ -26,6 +27,7 @@ margin-top: 10px;
 font-family: Verdana; font-size: 20px; color: #861738; font-weight: bold;
 background-color: #fdeabf;
 border: medium solid red;
+text-align: center;
 padding: 1%;
 }
 
