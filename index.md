@@ -39,15 +39,17 @@
 
 ![](Pie.png) ![](Chart.png) ![](Histogram.png)
 
-    pour les dates en caractères gras :
+    pour les dates suivies d'une case cochée :
     le Syndic a obtenu décharge de sa gestion de la part de l'Assemblée Générale
 
 
-* au [**31.12.2010**](Bilan_20101231.md)
-* au [31.12.2011](/Bilan_20111231.html)
+* au [**31.12.2010**](Bilan_20101231.md) &#x2612;
+* au [31.12.2011](/Bilan_20111231.md)
 * au [31.12.2012](http://brab80.webs.com/Bilan_20121231.html)
 * au [30.06.2013](http://brab80.webs.com/Bilan_20130630.html) - fin du mandat de la *SA Regimo NV*
 * au 31.12.2013
-* au **31.12.2014**
-* au [**31.12.2015**](http://brab80.webs.com/Bilan_20151231.html)
-* au **31.12.2016**
+* au **31.12.2014** &#x2612;
+* au [**31.12.2015**](http://brab80.webs.com/Bilan_20151231.html) &#x2612;
+* au **31.12.2016** &#x2612;
+* au **31.12.2017**
+
