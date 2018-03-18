@@ -5,7 +5,7 @@
 Suite aux décisions suivantes de l'Assemblée Générale, la part du budget affectée par le Syndic au Fonds de Réserve a évolué comme suit.
 
     en gras et en noir : 
-    un changement de montant a été décidé
+    un changement de montant a été  décidé
 
 | Historique |
 | :---: |

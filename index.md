@@ -15,7 +15,7 @@
 ## Obligations légales et déontologiques
 
 * [**Que doit vérifier**](Verifs.md) le Commissaire aux comptes ?
-* Quel est le [**plan comptable**](http://brab80.webs.com/AR_20120712.pdf) applicable aux copropriétés ?
+* Quel est le [**plan comptable**](AR_20120712_PCMN.pdf) applicable aux copropriétés ?
 * Les [**engagements complémentaires**](Charte_Loi_2016.md) pris par le Commissaire aux comptes
 
 ## Structure des dépenses (en 2016)
